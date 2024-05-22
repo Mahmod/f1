@@ -18,6 +18,6 @@ In summary, F1 combines the best features of SQL and NoSQL databases, providing 
 
 ## References
 
-[Warren’s notes](https://distributed-computing-musings.com/2023/10/paper-notes-f1-a-distributed-sql-database-that-scales/).
+[Warren’s notes](https://warrenqi.github.io/2020/03/29/google-f1-2013.html/).
 
 [Distributed Computing Musings](https://distributed-computing-musings.com/2023/10/paper-notes-f1-a-distributed-sql-database-that-scales/)
